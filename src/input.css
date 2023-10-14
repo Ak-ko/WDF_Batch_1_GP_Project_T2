@@ -2,3 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+
+nav a {
+    color: #59615A;
+    letter-spacing: 0.8px;
+    font-size: 10px;
+}
+nav a:hover {
+    color: #E2410E;
+}
+
+nav button {
+    letter-spacing: 0.8px;
+    color: white;
+    font-size: 10px;
+
+    padding: 6px 21px;
+}
+
+nav button:hover {
+    background-color: transparent;
+}
