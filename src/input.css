@@ -3,11 +3,13 @@
 @tailwind utilities;
 
 
+/* navigation bar default style*/
 nav a {
     color: #59615A;
     letter-spacing: 0.8px;
     font-size: 10px;
 }
+
 nav a:hover {
     color: #E2410E;
 }
